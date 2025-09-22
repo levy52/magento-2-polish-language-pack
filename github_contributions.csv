@@ -17,3 +17,5 @@
 "The password needs at least %1 characters. Create a new password and try again.","Hasło wymaga przynajmniej %1 znaków. Wprowadź nowe hasło i spróbuj ponownie.",module,Magento_Customer
 "The password can't begin or end with a space. Verify the password and try again.","Hasło nie może zaczynać się ani kończyć spacją. Wprowadź nowe hasło i spróbuj ponownie.",module,Magento_Customer
 "The password can't be the same as the email address. Create a new password and try again.","Hasło nie może być takie samo jak adres email. Stwórz nowe hasło i spróbuj ponownie.",module,Magento_Customer
+"The coupon code isn't valid. Verify the code and try again.","Kod rabatowy jest nieprawidłowy. Sprawdź kod i spróbuj ponownie.",module,Magento_Quote
+"The coupon code isn't valid. Verify the code and try again.","Kod rabatowy jest nieprawidłowy. Sprawdź kod i spróbuj ponownie.",module,Magento_SalesRule
